@@ -1,0 +1,9 @@
+method,file,original_size,compressed_size,conclusion,COEFF
+ari,test_1,13,29,OK,2.2308
+ari,test_2,13095,8035,OK,0.6136
+ari,test_3,226304,171953,OK,0.7598
+ari,test_4,0,8,OK,-
+ari,test_5,1000000,437840,OK,0.4378
+ari,test_6,1000000,1958,OK,0.002
+ari,test_7.txt,1000000,119066,OK,0.1191
+0.2281

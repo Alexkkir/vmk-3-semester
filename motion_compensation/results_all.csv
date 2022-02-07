@@ -1,0 +1,172 @@
+psnr		speed	disp	 comment
+33.33979	1.796	0.067	 
+33.33979	1.796	0.067	 
+33.33979	1.796	0.067	 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+34.48176	4.444	0.029	 
+32.57526	1.175	0.015	 
+32.98515	1.854	0.030	 
+33.45367	1.912	0.038	 
+33.10132	1.120	0.019	 
+33.43241	1.276	0.042	 
+31.52499	1.854	0.067	 
+32.96294	1.170	0.011	 
+29.37447	0.341	0.008	 
+29.37447	0.311	0.021	 
+31.61848	1.396	0.046	 velocity, ortho, 2 2 1 1
+33.21082	1.436	0.014	 --velocity, ortho, 2 2 1 1
+31.61848	1.857	0.042	 velocity, ortho, 2 2 1 1
+31.61848	1.857	0.042	 velocity, ortho, 2 2 1 1
+31.61848	1.857	0.042	 velocity, ortho, 2 2 1 1
+33.21082	1.389	0.032	 velocity, ortho, 2 2 1 1, -v
+33.21082	1.389	0.032	 velocity, ortho, 2 2 1 1, bad
+33.21082	1.389	0.032	 velocity, ortho, 2 2 1 1, bad
+33.21082	1.478	0.023	 velocity, ortho, 2 2 1 1, bad
+33.21082	1.478	0.023	 velocity, ortho, 2 2 1 1, bad
+33.21082	1.478	0.023	 fuck
+33.21082	1.478	0.023	 fuck
+33.21082	1.478	0.023	 fuck 2
+33.21082	1.257	0.011	 fuck
+33.21082	6.277	0.091	 fuck
+18.17938	1.408	0.093	 i hope it works
+18.26561	1.865	0.142	 i hope it works
+18.31559	1.848	0.091	 i hope it works
+18.21514	4.621	1.065	 i hope it works
+29.16411	2.235	0.006	 i hope it works
+29.17958	8.579	0.129	 i hope it works
+34.28075	13.61	0.078	 av 3*3
+33.48765	3.220	0.062	 av 3*3
+33.31254	1.818	0.101	 av 3*3
+34.34037	4.451	0.062	 av 3*3, bias = 4 2 1
+34.05597	4.962	0.050	 9, 2-2-1
+33.98301	4.912	0.163	 9, 2-2-1, -a
+34.21560	80.94	1.598	 9, 4-2-1, -a
+34.21560	82.59	2.208	 9, 4-2-1, -a
+34.28075	59.98	0.457	 9, 4-2-1, -a
+34.28075	51.90	0.119	 9, 4-2-1, -a
+29.37447	2.207	0.049	 9, adaptive bias with th: |5|10|
+29.37447	1.829	0.203	 9, adaptive bias with th: |5|10| but x_acc olny if 1-st case
+29.37447	5.888	0.103	 9, velocity, wide
+29.37447	4.564	0.032	 9, velocity, med
+29.37447	23.12	90.23	 9, velocity, med
+30.43102	15.62	0.196	 9, velocity, med
+33.94231	2.294	0.079	 9, adaptive bias with th: |5|10|
+33.94231	2.268	0.013	 9, adaptive bias with th: |5|10| but x_acc olny if 1-st case
+34.39705	2.463	0.191	 9, adaptive bias with th: |5|10| but x_acc olny if 1-st case
+34.48722	3.009	0.220	 9, adaptive bias with th: |5|10|
+32.58111	2.156	0.036	 5X, adaptive bias with th: |5|10|
+32.58111	49.99	0.136	 5X, adaptive bias with th: |5|10|
+31.84054	49.24	0.571	 ortho, adaptive bias with th: |5|10|
+31.90888	49.04	0.542	 ortho + log(wide), adaptive bias with th: |5|10|
+34.72045	3.241	0.001	 ortho + log(wide), adaptive bias with th: |5|10|
+32.72748	2.639	0.015	 ortho + log(wide), adaptive bias with th: |5|10|
+33.48664	2.530	0.072	 ortho + log(wide), adaptive bias with th: |5|10|, o l l
+34.48722	3.433	0.012	 old res
+34.46394	1.962	0.027	 mixed
+34.46394	1.688	0.152	 mixed, block = 8
+34.46394	1.656	0.005	 mixed, block = 8
+34.81374	2.389	0.042	 mixed, block = 8
+35.10588	4.216	0.026	 mixed, block = 8
+35.10588	98.14	3.658	 mixed, block = 8
+35.11979	84.89	4.813	 mixed, block = 8, mse
+35.11979	2.689	0.079	 mixed, block = 8, mse
+35.11979	2.298	0.147	 mixed, block = 8, mse
+35.10588	4.162	0.020	 mixed, block = 8, abs
+35.10588	4.882	0.171	 mixed, block = 8, my abs
+35.10588	3.622	0.280	 mixed, block = 8, my abs macros
+35.10588	3.924	0.158	 mixed, block = 8, my abs macros
+35.11979	2.718	0.135	 mixed, block = 8, my abs macros
+35.11979	2.476	0.022	 mixed, block = 8, sqr
+35.11979	2.397	0.047	 mixed, block = 8, sqr
+35.11979	2.232	0.071	 mixed, block = 8, sqr
+35.11979	2.072	0.079	 mixed, block = 8, sqr
+35.11979	2.002	0.126	 mixed, block = 8, sqr
+34.38656	2.555	0.431	 9, block = 8, sqr
+35.11979	215.7	10.34	 
+34.62839	2.350	0.237	 
+34.11389	1.925	0.055	 
+35.11979	2.205	0.018	 
+35.03040	2.085	0.008	 
+35.03040	1.737	0.179	 
+35.03040	1.726	0.108	 
+34.93952	2.025	0.011	 
+24.31814	4.591	0.166	 
+23.01428	5.147	0.494	 
+24.29292	4.699	0.136	 
+34.48250	2.178	0.032	 
+34.48532	1.856	0.166	 
+34.40405	2.421	0.008	 
+34.77319	2.755	0.017	 
+			 
+			 
+			 
+			 
+			 
+			 vector
+35.11979	2.216	0.063	 vector 2
+35.11979	1.861	0.170	 vector 2
+35.11979	1.838	0.059	 vector 2
+33.89153	2.002	0.018	 ignore baсkrgound (type Ideal)
+33.89153	1.715	0.004	 ignore baсkrgound (type Ideal)
+33.89153	1.713	0.002	 ignore baсkrgound (type Ideal)
+33.89153	2.020	0.033	 ignore baсkrgound (type Ideal)
+33.50701	1.040	0.013	 ignore baсkrgound (type Ideal)
+33.50701	1.059	0.026	 ignore baсkrgound (type Ideal)
+33.50701	1.095	0.014	 revocer
+33.89153	2.035	0.075	 revocer
+35.11979	1.881	0.159	 revocer
+35.11979	1.890	0.016	 ignore baсkrgound (type Ideal)
+35.12074	2.284	0.380	 ignore baсkrgound (type Ideal)
+35.12074	2.198	0.049	 ignore baсkrgound (type Ideal)
+35.12074	1.862	0.168	 ignore baсkrgound (type Ideal)
+35.12074	1.864	0.135	 ignore baсkrgound (type Ideal)
+35.12018	2.138	0.033	 ignore baсkrgound (type Ideal)
+35.12018	2.105	0.035	 ignore baсkrgound (type Ideal)
+35.11979	2.195	0.032	 revocer
+35.11979	1.880	0.115	 revocer
+36.60538	63.13	0.186	 8x8 brute force
+38.45109	70.51	4.520	 block size = 4, brute force
+38.45109	60.83	3.698	 block size = 4, brute force
+35.33899	77.56	2.342	 16, brute force
+35.33899	76.40	0.238	 16, brute force
+35.22560	92.79	0.189	 16, brute force
+36.60538	62.76	7.884	 8, brute force
+38.45109	65.19	4.268	 4, brute force
+38.45109	66.12	0.780	 4, brute force, copy map
+38.44073	62.15	2.316	 4, brute force, skip with mse 16
+38.44908	61.19	0.953	 4, brute force, skip with mse 16
+38.44908	841.3	98.34	 4, brute force, skip with mse 16
+37.77524	27.81	2.986	 4, brute force, skip with mse 16
+37.13749	8.414	0.329	 4, brute force, skip with mse 16, search not in [-16, 16], but in [-8, 8]
+33.74887	23.19	1.239	 4, skip with mse 16, log search, without half pixels aux code
+33.75201	22.50	0.301	 4, skip with mse 16, log search, without half pixels aux code
+35.49948	3.060	0.040	 4, brute force, skip with mse 16, search not in [-16, 16], but in [-8, 8], step = 2
+36.79188	5.130	0.244	 4, brute force, skip with mse 16, search not in [-16, 16], but in [-8, 8], step = 2, second time in [-4, 4]
+36.02852	6.595	0.034	 4, brute force, skip with mse 16, search not in [-16, 16], step = 3, second time in [-4, 4]
+37.13125	10.58	0.092	 4, brute force, skip with mse 16, search not in [-16, 16], step = 2, second time in [-4, 4]
+36.02852	6.537	0.136	 4, brute force, skip with mse 16, search not in [-16, 16], step = 2, second time in [-4, 4]
+36.02852	6.617	0.679	 4, brute force, skip with mse 16, search not in [-16, 16], but in [-8, 8], step = 2, second time in [-4, 4]
+36.79188	5.127	0.067	 4, brute force, skip with mse 16, search not in [-16, 16], but in [-8, 8], step = 2, second time in [-4, 4]
+36.95348	6.250	0.045	 4, brute force, skip with mse 16, search not in [-16, 16], but in [-8, 8], step = 2, second time in [-5, 5]
+36.95345	6.401	0.449	 4, brute force, skip with mse 16, search not in [-16, 16], but in [-8, 8], step = 2, second time in [-5, 5], good q - 35
+36.73217	5.111	0.239	 4, brute force, skip with mse 16, search not in [-16, 16], but in [-8, 8], step = 2, second time in [-5, 5], good q - 35
+36.55110	4.161	0.066	 4, brute force, skip with mse 16, search not in [-16, 16], but in [-8, 8], step = 2, second time in [-4, 4], good q - 35
+36.62102	4.355	0.118	 4, brute force, skip with mse 16, search not in [-16, 16], but in [-8, 8], step = 2, second time in [-4, 4], good q - 30
+35.77700	4.055	0.098	 the same as last, but with averaging
+36.37409	5.322	0.018	 the same as last, but with averaging, daip2 = 6, without q thresh
+37.04929	5.386	0.066	 the same as last, but with averaging, daip2 = 6, without q thresh
+36.91133	4.246	0.081	 the same as last, but with averaging, daip2 = 4, without q thresh
+36.91133	4.398	0.058	 the same as last, but with averaging, daip2 = 4, without q thresh
+36.75944	3.988	0.081	 the same as last, but with averaging, daip2 = 3, without q thresh
+35.91281	3.261	0.048	 acceleration, but with averaging, daip2 = 3, without q thresh
+35.91117	3.833	0.028	 acceleration, but with averaging, daip2 = 3, without q thresh, avergain in 5*5, not in 3*3
+34.51315	4.455	0.085	 (velocity), but with averaging, daip2 = 3, without q thresh, avergain in 5*5, not in 3*3
+34.49133	5.929	0.129	 (velocity), but with averaging, daip2 = 3, without q thresh, avergain in 5*5, not in 3*3
+36.69727	3.135	0.141	 without v, (-8, 8, 2), (-4, 4, 1), (-3, 3, 1)
+36.69727	3.340	0.038	 without v, (-8, 8, 2), (-4, 4, 1), (-3, 3, 1)

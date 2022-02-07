@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/1/Documents/EVM/compression_ari/src/out/build/x64-Debug/CMakeFiles/compress.dir/embed.manifest"

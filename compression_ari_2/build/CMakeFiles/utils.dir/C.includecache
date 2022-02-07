@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/1/Documents/EVM/compression_ari_2/src/ari.h
+
+C:/Users/1/Documents/EVM/compression_ari_2/src/ppm.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+inttypes.h
+-
+assert.h
+-
+ari.h
+C:/Users/1/Documents/EVM/compression_ari_2/src/ari.h
+stdbool.h
+-
+stddef.h
+-
+

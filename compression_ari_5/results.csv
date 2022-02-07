@@ -1,0 +1,9 @@
+method,file,original_size,compressed_size,conclusion,COEFF
+ppm,bcppcompiler.py,15392,4967,OK,0.3227
+ppm,clang-format.exe,1899928,877380,OK,0.4618
+ppm,cmd.py,19774,6864,OK,0.3471
+ppm,Intel_OpenCL_ICD64.dll,144600,80266,OK,0.5551
+ppm,test_3,226304,156845,OK,0.6931
+ppm,ucrtbase.dll,1202928,646001,OK,0.537
+ppm,voina_i_mir.txt,1543417,501557,OK,0.325
+0.4501

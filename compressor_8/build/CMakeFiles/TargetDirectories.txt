@@ -1,0 +1,4 @@
+C:/Users/1/Documents/EVM/compressor_8/build/CMakeFiles/utils.dir
+C:/Users/1/Documents/EVM/compressor_8/build/CMakeFiles/rebuild_cache.dir
+C:/Users/1/Documents/EVM/compressor_8/build/CMakeFiles/compress.dir
+C:/Users/1/Documents/EVM/compressor_8/build/CMakeFiles/edit_cache.dir

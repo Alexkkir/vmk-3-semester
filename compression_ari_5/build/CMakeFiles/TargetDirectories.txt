@@ -1,0 +1,4 @@
+C:/Users/1/Documents/EVM/compression_ari_5/build/CMakeFiles/utils.dir
+C:/Users/1/Documents/EVM/compression_ari_5/build/CMakeFiles/rebuild_cache.dir
+C:/Users/1/Documents/EVM/compression_ari_5/build/CMakeFiles/compress.dir
+C:/Users/1/Documents/EVM/compression_ari_5/build/CMakeFiles/edit_cache.dir

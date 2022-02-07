@@ -1,0 +1,9 @@
+b *(f+114)
+run
+
+set $i=0
+set $end=10000
+while ($i < $end)
+	jump *(f+116)	
+	set $i=$i+1
+end

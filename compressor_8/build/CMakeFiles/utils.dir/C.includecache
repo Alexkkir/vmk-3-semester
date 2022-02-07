@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/1/Documents/EVM/compressor_8/src/ppm.c
+stdio.h
+-
+inttypes.h
+-
+string.h
+-
+stdlib.h
+-
+

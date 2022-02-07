@@ -1,0 +1,4 @@
+C:/Users/1/Documents/EVM/compression_ari/src/out/build/x64-Debug/CMakeFiles/utils.dir
+C:/Users/1/Documents/EVM/compression_ari/src/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/1/Documents/EVM/compression_ari/src/out/build/x64-Debug/CMakeFiles/compress.dir
+C:/Users/1/Documents/EVM/compression_ari/src/out/build/x64-Debug/CMakeFiles/edit_cache.dir

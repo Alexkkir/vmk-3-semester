@@ -1,0 +1,2071 @@
+	> .
+	> ..
+	> .atom
+	> .bash_history
+	> .config
+	> .gradle
+	> .idlerc
+	> .ipython
+	> .jupyter
+	> .lesshst
+	> .matplotlib
+	> .ssh
+	> .VirtualBox
+	> .windows-build-tools
+	> 2.txt
+	> 3.txt
+	> 3D Objects
+	> ansel
+	> AppData
+	> Application Data
+	> Contacts
+	> Cookies
+	> Creative Cloud Files
+	> Desktop
+	> Documents
+	> Downloads
+	> Favorites
+	> gcc
+	> IntelGraphicsProfiles
+	> Links
+	> Local Settings
+	> MicrosoftEdgeBackups
+	> Music
+	> NetHood
+	> NTUSER.DAT
+	> ntuser.dat.LOG1
+	> ntuser.dat.LOG2
+	> NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+	> NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+	> NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+	> ntuser.ini
+	> OneDrive
+	> Pictures
+	> PrintHood
+	> project_name
+	> Recent
+	> s02200394@sandox-03.ejudge.ru
+	> Saved Games
+	> Searches
+	> SendTo
+	> source
+	> Videos
+	> VirtualBox VMs
+	> Мои документы
+	> Шаблоны
+	> главное меню
+cd .atom
+	> .
+	> ..
+	> .apm
+	> .apmrc
+	> .atom-socket-secret-1-1.53.0
+	> .atom-socket-secret-1-1.55.0
+	> .gitignore
+	> .node-gyp
+	> blob-store
+	> compile-cache
+	> config.cson
+	> github.cson
+	> init.coffee
+	> keymap.cson
+	> packages
+	> recovery
+	> snippets.cson
+	> storage
+	> styles.less
+cd .apm
+	> .
+	> ..
+	> .apmrc
+	> _cacache
+	> _locks
+	> _logs
+	> _prebuilds
+	> anonymous-cli-metrics.json
+cd _cacache
+	> .
+	> ..
+	> content-v2
+	> index-v5
+	> tmp
+cd content-v2
+	> .
+	> ..
+	> sha1
+	> sha512
+cd sha1
+	> .
+	> ..
+	> 01
+	> 02
+	> 03
+	> 04
+	> 06
+	> 09
+	> 0a
+	> 0b
+	> 0c
+	> 0d
+	> 0e
+	> 0f
+	> 10
+	> 11
+	> 12
+	> 14
+	> 15
+	> 16
+	> 17
+	> 18
+	> 19
+	> 1a
+	> 1b
+	> 1c
+	> 1d
+	> 1f
+	> 20
+	> 21
+	> 22
+	> 23
+	> 24
+	> 26
+	> 27
+	> 28
+	> 29
+	> 2b
+	> 2c
+	> 2d
+	> 30
+	> 31
+	> 32
+	> 33
+	> 34
+	> 35
+	> 36
+	> 37
+	> 3c
+	> 3d
+	> 3f
+	> 40
+	> 41
+	> 42
+	> 43
+	> 44
+	> 45
+	> 46
+	> 47
+	> 49
+	> 4a
+	> 4b
+	> 4d
+	> 4e
+	> 4f
+	> 50
+	> 51
+	> 52
+	> 56
+	> 58
+	> 59
+	> 5b
+	> 5c
+	> 5f
+	> 60
+	> 61
+	> 62
+	> 65
+	> 67
+	> 69
+	> 6a
+	> 6b
+	> 6c
+	> 6d
+	> 6e
+	> 70
+	> 71
+	> 74
+	> 75
+	> 76
+	> 78
+	> 7b
+	> 7c
+	> 7d
+	> 7e
+	> 7f
+	> 81
+	> 82
+	> 83
+	> 84
+	> 85
+	> 86
+	> 87
+	> 88
+	> 89
+	> 8a
+	> 8b
+	> 8c
+	> 8d
+	> 8e
+	> 90
+	> 92
+	> 94
+	> 95
+	> 96
+	> 97
+	> 9a
+	> 9c
+	> 9d
+	> 9e
+	> 9f
+	> a0
+	> a3
+	> a4
+	> a5
+	> a6
+	> a7
+	> a8
+	> a9
+	> aa
+	> ab
+	> ac
+	> ad
+	> ae
+	> af
+	> b2
+	> b3
+	> b4
+	> b5
+	> b6
+	> b7
+	> ba
+	> bb
+	> bc
+	> bd
+	> be
+	> c0
+	> c2
+	> c3
+	> c4
+	> c6
+	> c7
+	> c8
+	> c9
+	> ca
+	> cb
+	> cc
+	> cd
+	> ce
+	> d0
+	> d2
+	> d4
+	> d5
+	> d6
+	> d7
+	> d8
+	> d9
+	> da
+	> db
+	> dc
+	> dd
+	> de
+	> df
+	> e0
+	> e2
+	> e3
+	> e5
+	> e6
+	> e7
+	> e8
+	> e9
+	> eb
+	> ec
+	> ed
+	> ee
+	> ef
+	> f0
+	> f2
+	> f4
+	> f6
+	> f7
+	> f8
+	> fa
+	> fb
+	> fd
+	> fe
+	> ff
+cd 01
+	> .
+	> ..
+	> a2
+	> ea
+cd a2
+	> .
+	> ..
+	> b6d83154e88a8bdcd79101d6a717368a0276
+cd ..
+cd ea
+	> .
+	> ..
+	> c0fe3b5af71a2a6c02feabb8c1fef7e00eab
+cd ..
+cd ..
+cd 02
+	> .
+	> ..
+	> 58
+	> 7f
+cd 58
+	> .
+	> ..
+	> eae4d3d0c0974de1c169188ef0051d1d1988
+cd ..
+cd 7f
+	> .
+	> ..
+	> 279c2d568482b5e4bd043a800f69dc99f531
+cd ..
+cd ..
+cd 03
+	> .
+	> ..
+	> 08
+cd 08
+	> .
+	> ..
+	> 8e9ebf9e756b69751611d2a5ef591482c995
+cd ..
+cd ..
+cd 04
+	> .
+	> ..
+	> 5f
+	> 91
+	> e6
+cd 5f
+	> .
+	> ..
+	> 9782d011ae9a6803ddd382b24392b3d890f7
+cd ..
+cd 91
+	> .
+	> ..
+	> 939e0bee5643ee494a7e3da3d2bac70c6ca4
+cd ..
+cd e6
+	> .
+	> ..
+	> 926f662895354f3dd015203633b857297e2c
+cd ..
+cd ..
+cd 06
+	> .
+	> ..
+	> b2
+	> e1
+cd b2
+	> .
+	> ..
+	> 6113f56beab042545a23bfa88003ccac260f
+cd ..
+cd e1
+	> .
+	> ..
+	> ea8082c2cb14e39806e22e2f6f757f92af39
+cd ..
+cd ..
+cd 09
+	> .
+	> ..
+	> 20
+	> 7b
+	> a7
+cd 20
+	> .
+	> ..
+	> 6863ab070eb459acea5542cbd856b11966b3
+cd ..
+cd 7b
+	> .
+	> ..
+	> 602b53422a522c1afb8790318336941a011d
+cd ..
+cd a7
+	> .
+	> ..
+	> 8993e0ae4d4ef4487f6155a91f6190cb4223
+cd ..
+cd ..
+cd 0a
+	> .
+	> ..
+	> b9
+	> f3
+cd b9
+	> .
+	> ..
+	> 4540502ba7afa24c856aa985561669e9c52d
+cd ..
+cd f3
+	> .
+	> ..
+	> 2a9a6e13ca7a3fd5069e62d7b0f58d0d8946
+cd ..
+cd ..
+cd 0b
+	> .
+	> ..
+	> 5e
+cd 5e
+	> .
+	> ..
+	> e648388e2c860282e793f1856fec3f301b56
+cd ..
+cd ..
+cd 0c
+	> .
+	> ..
+	> 93
+cd 93
+	> .
+	> ..
+	> eab8877b26f235ea949fc33f9403fb5634d0
+cd ..
+cd ..
+cd 0d
+	> .
+	> ..
+	> 07
+	> d4
+	> ea
+cd 07
+	> .
+	> ..
+	> 0b4d043a5bea33a2f1a40e2edb3d9a4ccf77
+cd ..
+cd d4
+	> .
+	> ..
+	> c9ffaabc357960b1b724115d7e0e86a2e1f5
+cd ..
+cd ea
+	> .
+	> ..
+	> b6e8a2d9ddad73375e7b83da80bfc9105d24
+cd ..
+cd ..
+cd 0e
+	> .
+	> ..
+	> 36
+	> 73
+cd 36
+	> .
+	> ..
+	> 84c6cb9995b43efc9df03e4c365d95fd9cc0
+cd ..
+cd 73
+	> .
+	> ..
+	> 50acdec80b1108528786ec1d4418d11b396d
+cd ..
+cd ..
+cd 0f
+	> .
+	> ..
+	> 08
+	> 6c
+cd 08
+	> .
+	> ..
+	> 860f6a155127b2fadd4f9ce24b1aab6e4d22
+cd ..
+cd 6c
+	> .
+	> ..
+	> c2cf371debca7d936ed76b7d4c3cc1eb3d58
+cd ..
+cd ..
+cd 10
+	> .
+	> ..
+	> 2c
+	> 4a
+cd 2c
+	> .
+	> ..
+	> 9e9e9005d3e7e3829bf0c4fa24ee862ee9b9
+cd ..
+cd 4a
+	> .
+	> ..
+	> 8e4aaca6d3d8cd157a8ef8bfab2d7a3ffdb6
+cd ..
+cd ..
+cd 11
+	> .
+	> ..
+	> 8b
+	> a8
+cd 8b
+	> .
+	> ..
+	> df5b8cdc51a2a7e70d211e07e2b0b9b107d3
+cd ..
+cd a8
+	> .
+	> ..
+	> 6befeac3c4aa3ec08623651a3c81a6d0bbc8
+cd ..
+cd ..
+cd 12
+	> .
+	> ..
+	> 06
+	> 4e
+	> 83
+	> 96
+	> d4
+cd 06
+	> .
+	> ..
+	> 01537a916d29940f934da3b48d585a39213d
+cd ..
+cd 4e
+	> .
+	> ..
+	> f6aad8328dcb26b71c47590b5b8e63ebc487
+cd ..
+cd 83
+	> .
+	> ..
+	> 75c62ddb9cc4ffa905d0c5a597c19baead8e
+cd ..
+cd 96
+	> .
+	> ..
+	> a2d58fd45f19a0f6ce01d65701e2c735b6eb
+cd ..
+cd d4
+	> .
+	> ..
+	> a3dd4e68e0b79ceb8dbc84173ae80d91ca44
+cd ..
+cd ..
+cd 14
+	> .
+	> ..
+	> ad
+cd ad
+	> .
+	> ..
+	> 6113812d2d37d72e67b4cacb4bb726505f11
+cd ..
+cd ..
+cd 15
+	> .
+	> ..
+	> 04
+cd 04
+	> .
+	> ..
+	> ad2523158caa40db4a2787cb01411994ea4f
+cd ..
+cd ..
+cd 16
+	> .
+	> ..
+	> 4a
+cd 4a
+	> .
+	> ..
+	> 5483e630fa4321e5af07020e531831b2609b
+cd ..
+cd ..
+cd 17
+	> .
+	> ..
+	> 38
+	> 4b
+	> be
+cd 38
+	> .
+	> ..
+	> 99d3ffd1c7d9383e4479525dbe278cab5f2b
+cd ..
+cd 4b
+	> .
+	> ..
+	> 9268735534ffbc7ace6bf53a5a9e1b5c5f5f
+cd ..
+cd be
+	> .
+	> ..
+	> 93eaae3f3b779359c795b419705a8817e868
+cd ..
+cd ..
+cd 18
+	> .
+	> ..
+	> b2
+cd b2
+	> .
+	> ..
+	> 81da585b1c5c51def24c930ed29a0be6b177
+cd ..
+cd ..
+cd 19
+	> .
+	> ..
+	> 5a
+	> c4
+cd 5a
+	> .
+	> ..
+	> 21d6c46e361d2fb1281ba38b91e9df7bdbb3
+cd ..
+cd c4
+	> .
+	> ..
+	> 5b59f0a80632c30b5c43a647fe15aab905c2
+cd ..
+cd ..
+cd 1a
+	> .
+	> ..
+	> b2
+cd b2
+	> .
+	> ..
+	> 8b556e198363a8c1a6f7e6fa20137fe6aed9
+cd ..
+cd ..
+cd 1b
+	> .
+	> ..
+	> 61
+	> bd
+	> c9
+cd 61
+	> .
+	> ..
+	> c0562190a8dff6ae3bb2cf0200ca130b86d4
+cd ..
+cd bd
+	> .
+	> ..
+	> 43538f9bbbfeef5134cae56a0e622067b5df
+cd ..
+cd c9
+	> .
+	> ..
+	> 36b9e02f4a603fcc222ecf7633d30b8b93b1
+cd ..
+cd ..
+cd 1c
+	> .
+	> ..
+	> 11
+	> b4
+cd 11
+	> .
+	> ..
+	> f9218f076089a47dd512f93c6699a6a81d52
+cd ..
+cd b4
+	> .
+	> ..
+	> 5aaf57530f4caf86c7f75179d2c9a51dd572
+cd ..
+cd ..
+cd 1d
+	> .
+	> ..
+	> 17
+	> de
+cd 17
+	> .
+	> ..
+	> 679c069cda5d040991a09dbc2c0db377e55e
+cd ..
+cd de
+	> .
+	> ..
+	> 84024631865909ef30703365680c5f928b15
+cd ..
+cd ..
+cd 1f
+	> .
+	> ..
+	> 71
+	> e0
+cd 71
+	> .
+	> ..
+	> 54202f2a1b8af353871dda651bf34ce93e95
+cd ..
+cd e0
+	> .
+	> ..
+	> 64fb0ac851f0de61320a8bf796836422f33e
+cd ..
+cd ..
+cd 20
+	> .
+	> ..
+	> 81
+	> a0
+	> f9
+cd 81
+	> .
+	> ..
+	> 3df3d712928b207378691a45066fae72dd57
+cd ..
+cd a0
+	> .
+	> ..
+	> 103b222a70c8fd39cc2e580680f3dde5ec43
+cd ..
+cd f9
+	> .
+	> ..
+	> f17ae29ed345e8bde583b13d2009803c14d9
+cd ..
+cd ..
+cd 21
+	> .
+	> ..
+	> 09
+cd 09
+	> .
+	> ..
+	> adc7965887cfc05cbbd442cac8bfbb360863
+cd ..
+cd ..
+cd 22
+	> .
+	> ..
+	> 21
+	> 8b
+	> fb
+cd 21
+	> .
+	> ..
+	> f5ef9289f8166bdfc8acf0b510460b32a1ba
+cd ..
+cd 8b
+	> .
+	> ..
+	> de698a0c61431dc2630a6a154f15890d2317
+cd ..
+cd fb
+	> .
+	> ..
+	> be10e0b044e7b7a47b023da99d94b584ef8f
+cd ..
+cd ..
+cd 23
+	> .
+	> ..
+	> 3c
+cd 3c
+	> .
+	> ..
+	> be5cb3cf3126f64326fabfbe6c1f4854809f
+cd ..
+cd ..
+cd 24
+	> .
+	> ..
+	> 8e
+	> 95
+	> fd
+cd 8e
+	> .
+	> ..
+	> 36072ede906501d75966200a86dab8b23170
+cd ..
+cd 95
+	> .
+	> ..
+	> ddbaf6eb874abb0e1be9df22d2e5a544326c
+cd ..
+cd fd
+	> .
+	> ..
+	> 6201a4782cf50561c810276afc7d12d71195
+cd ..
+cd ..
+cd 26
+	> .
+	> ..
+	> a7
+	> d2
+cd a7
+	> .
+	> ..
+	> 1aaf073b39fb2127172746131c2704028db8
+cd ..
+cd d2
+	> .
+	> ..
+	> 08ea89e37b5cbde60250a15f031c16a4d66b
+cd ..
+cd ..
+cd 27
+	> .
+	> ..
+	> a5
+cd a5
+	> .
+	> ..
+	> dea06b36b04a0a9966774b290868f0fc40fd
+cd ..
+cd ..
+cd 28
+	> .
+	> ..
+	> 06
+cd 06
+	> .
+	> ..
+	> 3b01cca8ac1e5f7a13d118e3207a6e887ffd
+cd ..
+cd ..
+cd 29
+	> .
+	> ..
+	> 0c
+	> 17
+	> 75
+	> 9d
+	> bd
+	> df
+cd 0c
+	> .
+	> ..
+	> bb232e306942d7d7ea9b83732ab7856f8285
+cd ..
+cd 17
+	> .
+	> ..
+	> eb44bdc9072ceda942579543847e3017fe4e
+cd ..
+cd 75
+	> .
+	> ..
+	> 88b7b0e7e0ac08e04e672f85c1f4999e17af
+cd ..
+cd 9d
+	> .
+	> ..
+	> e7bf9052e8537f4acd93cde306892bf071f1
+cd ..
+cd bd
+	> .
+	> ..
+	> abd1015dac6f7d445c7199d9cd1ff1369c49
+cd ..
+cd df
+	> .
+	> ..
+	> 50deae3d6d4c1c62451b10925f28641e928b
+cd ..
+cd ..
+cd 2b
+	> .
+	> ..
+	> 56
+cd 56
+	> .
+	> ..
+	> 8b265eec944c6d9c0de9c3dbbbca0354cd8e
+cd ..
+cd ..
+cd 2c
+	> .
+	> ..
+	> 03
+	> 4b
+	> 63
+	> 6a
+	> 74
+	> 89
+cd 03
+	> .
+	> ..
+	> 405c7538c39d7eb37b317022e325fb018bf7
+cd ..
+cd 4b
+	> .
+	> ..
+	> 71dc60fe63372d601b1f4006c9fae14f9668
+cd ..
+cd 63
+	> .
+	> ..
+	> 7fe77c893afd2a663fe21aa9080068e2052a
+cd ..
+cd 6a
+	> .
+	> ..
+	> c652d4337488968489c6586f3aff26a38ea4
+cd ..
+cd 74
+	> .
+	> ..
+	> b6ee41d93ca51b7b5aaee8f503631d252a73
+cd ..
+cd 89
+	> .
+	> ..
+	> d6889b5eac522a7eea32c14521559c6cbf02
+cd ..
+cd ..
+cd 2d
+	> .
+	> ..
+	> da
+cd da
+	> .
+	> ..
+	> e2c17c04f46ebd47bf1b6a2d964d03cf6fda
+cd ..
+cd ..
+cd 30
+	> .
+	> ..
+	> 43
+	> 8a
+	> a9
+	> f5
+cd 43
+	> .
+	> ..
+	> 38fceccea35ec28ffaddb792ab7715633e6f
+cd ..
+cd 8a
+	> .
+	> ..
+	> ccafa0bc483a3867b4b6f2b9506251d1b835
+cd ..
+cd a9
+	> .
+	> ..
+	> 47303c6b8d5e955bee2b99b1d233206a6901
+cd ..
+cd f5
+	> .
+	> ..
+	> f60bd6e4389bd329e16a25386cbb2e4a00a3
+cd ..
+cd ..
+cd 31
+	> .
+	> ..
+	> ea
+cd ea
+	> .
+	> ..
+	> 21a734bab9bbb0f32466d893aea51e4a3c64
+cd ..
+cd ..
+cd 32
+	> .
+	> ..
+	> 04
+	> 80
+cd 04
+	> .
+	> ..
+	> 781d7840611e6364e7b6fb058c96327c5aa5
+cd ..
+cd 80
+	> .
+	> ..
+	> 1a44e960b2cf0cbe975eb8b635e0ef092c3e
+cd ..
+cd ..
+cd 33
+	> .
+	> ..
+	> 06
+cd 06
+	> .
+	> ..
+	> 6f631462b88a083294d148e1f04a502c15e7
+cd ..
+cd ..
+cd 34
+	> .
+	> ..
+	> 71
+	> 9a
+	> fc
+cd 71
+	> .
+	> ..
+	> 5e53b9debe0750a77233fd494a5835a2d999
+cd ..
+cd 9a
+	> .
+	> ..
+	> 6d44c53a51de89b40805c5d5e59b417d3340
+cd ..
+cd fc
+	> .
+	> ..
+	> 3672cd24393e8bb47e70caa0293811f4f2c5
+cd ..
+cd ..
+cd 35
+	> .
+	> ..
+	> a9
+	> fc
+cd a9
+	> .
+	> ..
+	> 232dfa35d7067b4cb2ddf2357b1871536c5f
+cd ..
+cd fc
+	> .
+	> ..
+	> 149e1bf8097bdee90913faccd100100ef159
+cd ..
+cd ..
+cd 36
+	> .
+	> ..
+	> 13
+	> c4
+cd 13
+	> .
+	> ..
+	> aa46149064b3c1f0607919bf1d4786e82889
+cd ..
+cd c4
+	> .
+	> ..
+	> e0501ad08cfa6ac83d0ddc8f8ef535b901b4
+cd ..
+cd ..
+cd 37
+	> .
+	> ..
+	> be
+cd be
+	> .
+	> ..
+	> 5d36e1e06492221e68d474b1ac58e510cbd7
+cd ..
+cd ..
+cd 3c
+	> .
+	> ..
+	> 53
+cd 53
+	> .
+	> ..
+	> 1942e908c2697c0ec344858c286c7ca0a60a
+cd ..
+cd ..
+cd 3d
+	> .
+	> ..
+	> 7c
+cd 7c
+	> .
+	> ..
+	> f4464db6446ea644bf4b39507f9851008e8e
+cd ..
+cd ..
+cd 3f
+	> .
+	> ..
+	> bc
+cd bc
+	> .
+	> ..
+	> fb15b899a44123b34b6dcc18b724336a2cae
+cd ..
+cd ..
+cd 40
+	> .
+	> ..
+	> a3
+cd a3
+	> .
+	> ..
+	> 669f3b077d1e943d44629e157dd48023bf2e
+cd ..
+cd ..
+cd 41
+	> .
+	> ..
+	> 16
+	> 1c
+cd 16
+	> .
+	> ..
+	> 91c63a9b2531b1700267279bdeca23b2142a
+cd ..
+cd 1c
+	> .
+	> ..
+	> adb574c5a140d3a4b1910d40d80cc9f40b40
+cd ..
+cd ..
+cd 42
+	> .
+	> ..
+	> 77
+	> 90
+cd 77
+	> .
+	> ..
+	> a54754488aa9675d886e354db894c9bdc981
+cd ..
+cd 90
+	> .
+	> ..
+	> fad27f13e89be7f33799c6bc5a0abfff0d19
+cd ..
+cd ..
+cd 43
+	> .
+	> ..
+	> c3
+cd c3
+	> .
+	> ..
+	> 6e5d569ff8e4816c4efa8be02d26967c18aa
+cd ..
+cd ..
+cd 44
+	> .
+	> ..
+	> 5c
+	> aa
+	> f0
+cd 5c
+	> .
+	> ..
+	> 75599e3ebde0f9d94ee48cca75ddda26ccd7
+cd ..
+cd aa
+	> .
+	> ..
+	> c65b695b03398968c39f363fee5deafdf1ea
+cd ..
+cd f0
+	> .
+	> ..
+	> acfc25ad070ddcb7c8cd8a5c787a1b78fc09
+cd ..
+cd ..
+cd 45
+	> .
+	> ..
+	> 0d
+	> 1f
+	> d1
+cd 0d
+	> .
+	> ..
+	> 4dc9fa70de732762fbd2d4a28981419a0ccf
+cd ..
+cd 1f
+	> .
+	> ..
+	> d3004ab1e4df9b4e4b66376b2a21912462d3
+cd ..
+cd d1
+	> .
+	> ..
+	> b7e506c717ddd482775a2b77920a3c0c57a7
+cd ..
+cd ..
+cd 46
+	> .
+	> ..
+	> 74
+cd 74
+	> .
+	> ..
+	> 7f0df162626c16ebf0fea42245ad1aa859ca
+cd ..
+cd ..
+cd 47
+	> .
+	> ..
+	> 4b
+cd 4b
+	> .
+	> ..
+	> 50865af3a49a9c4657f05acd145458f77d82
+cd ..
+cd ..
+cd 49
+	> .
+	> ..
+	> 90
+	> bd
+cd 90
+	> .
+	> ..
+	> 200f18ea5b837c2cc4f8c031a6985c385611
+cd ..
+cd bd
+	> .
+	> ..
+	> 6331d7d02d0c09bc910a1075ba8165b56df9
+cd ..
+cd ..
+cd 4a
+	> .
+	> ..
+	> 52
+cd 52
+	> .
+	> ..
+	> 82ac164729e93619bcfd3ad151f817ce91f5
+cd ..
+cd ..
+cd 4b
+	> .
+	> ..
+	> 0d
+	> 2f
+	> 73
+	> c0
+cd 0d
+	> .
+	> ..
+	> a1442104d1b336340e80797e865cf39f7d72
+cd ..
+cd 2f
+	> .
+	> ..
+	> 1a19dece93d57ac216037e3e9791c7dd1564
+cd ..
+cd 73
+	> .
+	> ..
+	> f1ff9e56ad91b76e716407fe5ffe6554bb8c
+cd ..
+cd c0
+	> .
+	> ..
+	> 373c164bc3291b4d368c829cf1a80a59dca0
+cd ..
+cd ..
+cd 4d
+	> .
+	> ..
+	> 44
+cd 44
+	> .
+	> ..
+	> 4b80c3f86fcbcd51321b4dcbc9247c5948c0
+cd ..
+cd ..
+cd 4e
+	> .
+	> ..
+	> 43
+cd 43
+	> .
+	> ..
+	> 1e92b11a9731636aa1f9c8d1ccbcfdab78df
+cd ..
+cd ..
+cd 4f
+	> .
+	> ..
+	> 50
+cd 50
+	> .
+	> ..
+	> 36fbd6581fcc97237ac3954a244b9536c2da
+cd ..
+cd ..
+cd 50
+	> .
+	> ..
+	> c8
+cd c8
+	> .
+	> ..
+	> 5f8d96e1ddb6cb55252e68134cb81427263f
+cd ..
+cd ..
+cd 51
+	> .
+	> ..
+	> 84
+	> af
+cd 84
+	> .
+	> ..
+	> 869790f30da0a763be33dc12cc44bb370d64
+cd ..
+cd af
+	> .
+	> ..
+	> 7d614ad9a9f610ea1bafbb989d6b1c56890f
+cd ..
+cd ..
+cd 52
+	> .
+	> ..
+	> 3e
+cd 3e
+	> .
+	> ..
+	> 14fdaf5248805bb02f62efc33be703f51865
+cd ..
+cd ..
+cd 56
+	> .
+	> ..
+	> 08
+cd 08
+	> .
+	> ..
+	> aeadfc00be6c2901df5f9861788de0d597c8
+cd ..
+cd ..
+cd 58
+	> .
+	> ..
+	> 3b
+	> 58
+cd 3b
+	> .
+	> ..
+	> 1aa775961d4b113ac17d9c50baef9dd76bd1
+cd ..
+cd 58
+	> .
+	> ..
+	> 547f6b290757ee95cccc666fb50084c460dd
+cd ..
+cd ..
+cd 59
+	> .
+	> ..
+	> 66
+cd 66
+	> .
+	> ..
+	> 7f41fadd4f20ccbc2bb96b8d4f7f78ec0367
+cd ..
+cd ..
+cd 5b
+	> .
+	> ..
+	> 7e
+cd 7e
+	> .
+	> ..
+	> 25b0bac923715fd1204c1c5d2d31f46410cc
+cd ..
+cd ..
+cd 5c
+	> .
+	> ..
+	> 2a
+cd 2a
+	> .
+	> ..
+	> 26c9ee442380af53dadbf3e8e63ace817f50
+cd ..
+cd ..
+cd 5f
+	> .
+	> ..
+	> f5
+cd f5
+	> .
+	> ..
+	> c3d5cc8b3a712aac4b35ea168572469ddf3c
+cd ..
+cd ..
+cd 60
+	> .
+	> ..
+	> 80
+cd 80
+	> .
+	> ..
+	> 9c39cbff55337226fd5e0b520f341f1fb5c6
+cd ..
+cd ..
+cd 61
+	> .
+	> ..
+	> 1a
+	> db
+cd 1a
+	> .
+	> ..
+	> e1acf14f5e81f729507472819fe9733558a9
+cd ..
+cd db
+	> .
+	> ..
+	> c2d53b69ff6091a12a168fd7d433107e40f1
+cd ..
+cd ..
+cd 62
+	> .
+	> ..
+	> 86
+	> b1
+	> e2
+cd 86
+	> .
+	> ..
+	> 242112c5b712fa654e526652bf6a13ff05cb
+cd ..
+cd b1
+	> .
+	> ..
+	> 10e289a471418e3ec36a617d472e301dfc89
+cd ..
+cd e2
+	> .
+	> ..
+	> 03bc41766c6c28c9fc84301dab1c5310fa94
+cd ..
+cd ..
+cd 65
+	> .
+	> ..
+	> 22
+	> 44
+cd 22
+	> .
+	> ..
+	> 94c14651db28fa93bd2d5ff2983a4f08c636
+cd ..
+cd 44
+	> .
+	> ..
+	> bba2dfda8c1cf17e629a3a305e2bb1fee6c1
+cd ..
+cd ..
+cd 67
+	> .
+	> ..
+	> 0b
+	> 6f
+	> e2
+	> fe
+cd 0b
+	> .
+	> ..
+	> 3afbc552e0b55df6b7780ca74615f23ad1cb
+cd ..
+cd 6f
+	> .
+	> ..
+	> 6eb3c39997c2ee1ac3a924fd6124748f578d
+cd ..
+cd e2
+	> .
+	> ..
+	> e863797215530dff318e5bf9dcebfd47b21a
+cd ..
+cd fe
+	> .
+	> ..
+	> 075c5c24fef39f9d65f5f7b7fe75171968fc
+cd ..
+cd ..
+cd 69
+	> .
+	> ..
+	> 80
+	> 86
+cd 80
+	> .
+	> ..
+	> 22f9a65ddad684fcbd5a48f1da3802039ee6
+cd ..
+cd 86
+	> .
+	> ..
+	> c3330fee0c4c9e00c2398cd61afa5d8f239e
+cd ..
+cd ..
+cd 6a
+	> .
+	> ..
+	> 38
+	> a2
+cd 38
+	> .
+	> ..
+	> 5fb8853d952d5ff05d0e8aaf94278dc63dcf
+cd ..
+cd a2
+	> .
+	> ..
+	> bd335c9592a12813927b762dbb6bc94833b4
+cd ..
+cd ..
+cd 6b
+	> .
+	> ..
+	> 65
+cd 65
+	> .
+	> ..
+	> 273b99193c5f067a4cf5809598f777e3b759
+cd ..
+cd ..
+cd 6c
+	> .
+	> ..
+	> 65
+cd 65
+	> .
+	> ..
+	> 8619becf14031d0d0b594b16042ce4dc063d
+cd ..
+cd ..
+cd 6d
+	> .
+	> ..
+	> 5b
+	> 61
+cd 5b
+	> .
+	> ..
+	> 934a456993b23d37f40a382d6f1666a8e5c6
+cd ..
+cd 61
+	> .
+	> ..
+	> de95d91dfca9b9a02089ad384bff8f62b771
+cd ..
+cd ..
+cd 6e
+	> .
+	> ..
+	> 1d
+	> a6
+cd 1d
+	> .
+	> ..
+	> 891255e9110e3e511bdefb70fdf55b97a114
+cd ..
+cd a6
+	> .
+	> ..
+	> bdf3d853ae54ccb8e47bfa0bf3f9031fb184
+cd ..
+cd ..
+cd 70
+	> .
+	> ..
+	> 6c
+cd 6c
+	> .
+	> ..
+	> ef9e99aa236ba7766c239c8b9e286ea7d228
+cd ..
+cd ..
+cd 71
+	> .
+	> ..
+	> a5
+cd a5
+	> .
+	> ..
+	> 0c8429dfca773c92a390a4a03b39fcd51d3e
+cd ..
+cd ..
+cd 74
+	> .
+	> ..
+	> 1c
+	> a9
+cd 1c
+	> .
+	> ..
+	> 6c2f4596c4830d6718460920d0c92202dc78
+cd ..
+cd a9
+	> .
+	> ..
+	> 48cc09ed6ecb262b9515d5c31a0a0e66a2e0
+cd ..
+cd ..
+cd 75
+	> .
+	> ..
+	> c9
+	> f1
+cd c9
+	> .
+	> ..
+	> 5c32b748e0850d10c2b168f6bdbe9891ace8
+cd ..
+cd f1
+	> .
+	> ..
+	> 6642b480f187a711c814161fd3a4a7655898
+cd ..
+cd ..
+cd 76
+	> .
+	> ..
+	> 1b
+	> 9e
+cd 1b
+	> .
+	> ..
+	> 5c67cfd4f1d18afb234f691d678682cb3bf3
+cd ..
+cd 9e
+	> .
+	> ..
+	> baaf3f4a63aad3af9e8d304c9bbe79bfb0e6
+cd ..
+cd ..
+cd 78
+	> .
+	> ..
+	> c5
+cd c5
+	> .
+	> ..
+	> 926893c80215c2b568ae1fd3fcab7a2696b0
+cd ..
+cd ..
+cd 7b
+	> .
+	> ..
+	> 1f
+	> a5
+cd 1f
+	> .
+	> ..
+	> 58bada62ca827ec0a2078025654845995e1f
+cd ..
+cd a5
+	> .
+	> ..
+	> ae24217804ac70707b96922567486cc3e84a
+cd ..
+cd ..
+cd 7c
+	> .
+	> ..
+	> 1d
+	> 80
+	> f4
+cd 1d
+	> .
+	> ..
+	> 16d679a1bbe59ca02cacecfb011e201f5a1f
+cd ..
+cd 80
+	> .
+	> ..
+	> c17b9dfebe599e27367e0d4dd5590141db38
+cd ..
+cd f4
+	> .
+	> ..
+	> c54ef648e3813084c636dd2079e166c081d9
+cd ..
+cd ..
+cd 7d
+	> .
+	> ..
+	> a8
+cd a8
+	> .
+	> ..
+	> cf2e26628ed732803581fd21f67cacd2eeec
+cd ..
+cd ..
+cd 7e
+	> .
+	> ..
+	> 32
+	> 7d
+	> 8a
+	> c6
+cd 32
+	> .
+	> ..
+	> f75b41381291d04611f1bf14109ac00651d7
+cd ..
+cd 7d
+	> .
+	> ..
+	> 858b781bd7c991a41ba975ed3812754e998c
+cd ..
+cd 8a
+	> .
+	> ..
+	> 52dc55a491cd3d4338cea7ad769fb436c13d
+cd ..
+cd c6
+	> .
+	> ..
+	> 75e039145533bf2a6a856073f1599d9c2d24
+cd ..
+cd ..
+cd 7f
+	> .
+	> ..
+	> 1f
+cd 1f
+	> .
+	> ..
+	> 302055b3fea0f3e81dc78eb36766cb65e3f1
+cd ..
+cd ..
+cd 81
+	> .
+	> ..
+	> 06
+cd 06
+	> .
+	> ..
+	> 8d295a8142ec0ac726c6e2200c30fb6d5e80
+cd ..
+cd ..
+cd 82
+	> .
+	> ..
+	> d7
+cd d7
+	> .
+	> ..
+	> 9bff30a67c4005ffd5e2515300ad9ca4d7af
+cd ..
+cd ..
+cd 83
+	> .
+	> ..
+	> 40
+	> 76
+	> c6
+cd 40
+	> .
+	> ..
+	> fc4702c3122df5d22288f88283f513d3fdd4
+cd ..
+cd 76
+	> .
+	> ..
+	> 873f7d2335179ffb1e6fc3a8ed0dfc8ab559
+cd ..
+cd c6
+	> .
+	> ..
+	> 0afc58b9c56997007ed1a768b3ab303a44fe
+cd ..
+cd ..
+cd 84
+	> .
+	> ..
+	> c6
+cd c6
+	> .
+	> ..
+	> e159b81904fdca59a0ef44cd870d31250f9a
+cd ..
+cd ..
+cd 85
+	> .
+	> ..
+	> 91
+cd 91
+	> .
+	> ..
+	> 5b02e597afb49a05cf43fb7e69ebac5cc10e
+cd ..
+cd ..
+cd 86
+	> .
+	> ..
+	> 4d
+cd 4d
+	> .
+	> ..
+	> 9f9a2456ecca25977e308820585a2e61d0e3
+cd ..
+cd ..
+cd 87
+	> .
+	> ..
+	> 71
+	> a1
+	> bf
+cd 71
+	> .
+	> ..
+	> aae0799b64076b76640fca058f9c10e33ecb
+cd ..
+cd a1
+	> .
+	> ..
+	> 0ac4c1694bd2e1cbf53591a66141fb5dd747
+cd ..
+cd bf
+	> .
+	> ..
+	> 40292b8cf83e4e8ce1a3ae4209e20071675a
+cd ..
+cd ..
+cd 88
+	> .
+	> ..
+	> 7c
+	> a2
+	> d7
+cd 7c
+	> .
+	> ..
+	> 2b3d0b9bd86eca2be70571c27654c19e188d
+cd ..
+cd a2
+	> .
+	> ..
+	> bab73d1cf7bcd5c1b118a003f66f665fa662
+cd ..
+cd d7
+	> .
+	> ..
+	> ff7ec0dfb86f713dc87bbb42d044d3e6c41b
+cd ..
+cd ..
+cd 89
+	> .
+	> ..
+	> b4
+cd b4
+	> .
+	> ..
+	> d199ab2bee49de164ea02b89ce462d71b767
+cd ..
+cd ..
+cd 8a
+	> .
+	> ..
+	> 03
+	> 18
+	> 1f
+cd 03
+	> .
+	> ..
+	> 9d2d1021d22d1ea14c80d8ea468ba2ef3fcc
+cd ..
+cd 18
+	> .
+	> ..
+	> acfca9a8f4177e09abfc6038939b05d1eedf
+cd ..
+cd 1f
+	> .
+	> ..
+	> 07896d82b10926bd3744a2420009f88974a8
+cd ..
+cd ..
+cd 8b
+	> .
+	> ..
+	> b8
+cd b8
+	> .
+	> ..
+	> 71a4741e085c70487ca7acdbd7d6d36029eb
+cd ..
+cd ..
+cd 8c
+	> .
+	> ..
+	> 5a
+	> 64
+cd 5a
+	> .
+	> ..
+	> 1494d2066c570cc3bfe4496175acc4d502ab
+cd ..
+cd 64
+	> .
+	> ..
+	> ad5fd30dab1c976e2344ffe7f792a6a6df42
+cd ..
+cd ..
+cd 8d
+	> .
+	> ..
+	> 9d
+	> ca
+cd 9d
+	> .
+	> ..
+	> be28964a4ac5712e9131642107c71e90ec40
+cd ..
+cd ca
+	> .
+	> ..
+	> e470e1c88abc2d600fff4a776286da75e637
+cd ..
+cd ..
+cd 8e
+	> .
+	> ..
+	> 94
+cd 94
+	> .
+	> ..
+	> 3d1358dc37555054ecbe2edb05aa174ede14
+cd ..
+cd ..
+cd 90
+	> .
+	> ..
+	> 20
+cd 20
+	> .
+	> ..
+	> 4c3e2fdaa6941bb28d16645d418063a90e9b
+cd ..
+cd ..
+cd 92
+	> .
+	> ..
+	> 5d
+cd 5d
+	> .
+	> ..
+	> 2601d39ac485e091cf0da5c6e694dc3dcaff
+cd ..
+cd ..
+cd 94
+	> .
+	> ..
+	> a2
+cd a2
+	> .
+	> ..
+	> b1633c4f1317553007d8966fd0e841b6a4c2
+cd ..
+cd ..
+cd 95
+	> .
+	> ..
+	> b0
+cd b0
+	> .
+	> ..
+	> b63fec2146619a6fe57fe75628d5a39efe4f
+cd ..
+cd ..
+cd 96
+	> .
+	> ..
+	> 36
+	> 5c
+	> e3
+cd 36
+	> .
+	> ..
+	> b7705f5ba9684d44b72f78321254afc860f7
+cd ..
+cd 5c
+	> .
+	> ..
+	> 7058668e82b55d7bfe04ff2337bc8b5647fe
+cd ..
+cd e3
+	> .
+	> ..
+	> b70d5779f6ad49cd032673d1c312767ba581
+cd ..
+cd ..
+cd 97
+	> .
+	> ..
+	> f7
+	> fb
+cd f7
+	> .
+	> ..
+	> 17b69d48784f5f526a6c5aa8ffdda055a4d1
+cd ..
+cd fb
+	> .
+	> ..
+	> 5d96bfde8973313f20e8288ef9a167fa64ce
+cd ..
+cd ..
+cd 9a
+	> .
+	> ..
+	> 75
+cd 75
+	> .
+	> ..
+	> 9d39c5f2ff503fd5300646ed445f88c4f9af
+cd ..
+cd ..
+cd 9c
+	> .
+	> ..
+	> cf
+cd cf
+	> .
+	> ..
+	> 6a43460fe4ed40a9bb68f48d43b8a68cc077
+cd ..
+cd ..
+cd 9d
+	> .
+	> ..
+	> a5
+cd a5
+	> .
+	> ..
+	> 8fb1ddd24824d7621b2dc63a7123b50217b6
+cd ..
+cd ..
+cd 9e
+	> .
+	> ..
+	> 1f
+	> 6a
+cd 1f
+	> .
+	> ..
+	> 56ac0acdb6bf303306f338be3b204ae60360
+cd ..
+cd 6a
+	> .
+	> ..
+	> f6299d8d3bd2bd40430832bd113df906c5ae
+cd ..
+cd ..
+cd 9f
+	> .
+	> ..
+	> 6e
+cd 6e
+	> .
+	> ..
+	> b182f6c9aa8cd743004a7d4f96b196b0fb0c
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..

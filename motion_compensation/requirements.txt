@@ -1,0 +1,9 @@
+pybind11
+opencv-python
+numpy
+tqdm
+matplotlib
+seaborn
+scikit-image
+pandas
+pytest

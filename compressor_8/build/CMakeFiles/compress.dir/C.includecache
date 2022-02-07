@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/1/Documents/EVM/compressor_8/src/ari.h
+
+C:/Users/1/Documents/EVM/compressor_8/src/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+utils.h
+C:/Users/1/Documents/EVM/compressor_8/src/utils.h
+ari.h
+C:/Users/1/Documents/EVM/compressor_8/src/ari.h
+ppm.h
+C:/Users/1/Documents/EVM/compressor_8/src/ppm.h
+
+C:/Users/1/Documents/EVM/compressor_8/src/ppm.h
+
+C:/Users/1/Documents/EVM/compressor_8/src/utils.h
+

@@ -1,0 +1,9 @@
+method,file,original_size,compressed_size,conclusion,COEFF
+ppm,test_1,13,23,OK,1.7692
+ppm,test_2,13095,5994,OK,0.4577
+ppm,test_3,226304,130957,OK,0.5787
+ppm,test_4,0,10,OK,-
+ppm,test_5,1000000,297,OK,0.0003
+ppm,test_6,1000000,277,OK,0.0003
+ppm,test_7.txt,1000000,7272,OK,0.0073
+0.0447

@@ -1,0 +1,5 @@
+method,file,original_size,compressed_size,conclusion,COEFF
+ppm,sem6.txt,250370,248451,OK,0.9923
+ppm,voina-i-mir.epub,2039555,2072482,OK,1.0161
+ppm,voina_i_mir.txt,1543417,944608,OK,0.612
+0.8519

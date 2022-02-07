@@ -1,0 +1,2 @@
+#!/bin/bash
+C:\Users\1\Documents\EVM\compressor_8_cpp\cmake-build-debug\compressor_8_cpp.exe e C:\Users\1\Documents\EVM\compressor_8_cpp\my_tests\public_tests_official\test_3 C:\Users\1\Documents\EVM\compressor_8_cpp\cmake-build-debug\2.txt

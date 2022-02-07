@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/1/Documents/EVM/compression_ari_3/src/ppm.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+inttypes.h
+-
+ppm.h
+C:/Users/1/Documents/EVM/compression_ari_3/src/ppm.h
+
+C:/Users/1/Documents/EVM/compression_ari_3/src/ppm.h
+

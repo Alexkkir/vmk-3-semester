@@ -1,0 +1,3 @@
+conclusion,video,halfpixel,quality,psnr,ssim,speed,speed_std
+OK,/mnt/c/Users/1/Documents/EVM/motion_compensation/video/source.avi,False,80,37.34211734285523,0.9432431698630136,2.901599004671171,0.0168651624691233
+OK,/mnt/c/Users/1/Documents/EVM/motion_compensation/video/source.avi,True,80,32.888171237993795,0.9066653158091885,7.562719382248916,0.07859252366386256
