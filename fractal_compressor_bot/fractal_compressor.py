@@ -14,7 +14,7 @@ from skimage.metrics import mean_squared_error as mse, peak_signal_noise_ratio a
 from skimage.transform import resize
 from skimage.color import rgb2gray, rgb2yuv, yuv2rgb
 
-from tqdm.contrib.telegram import tqdm  # for telegram
+from tqdm.contrib.telegram import tqdm  # tqdm for telegram
 
 BlockTransform = namedtuple('BlockTransform', ['x', 'y', 'col', 'tr', 'mse', 'size', 'x_or', 'y_or'])
 ColorChange = namedtuple('ColorChange', ['p', 'r'])

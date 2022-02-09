@@ -1,17 +1,15 @@
 #!/usr/bin/python
 
-# This is a simple echo bot using the decorator mechanism.
-# It echoes any incoming text messages.
 
 import telebot
 from telebot import types, custom_filters
 from compressor_api import perform_compression, perform_decompression
 import os
-from multiprocessing import Process
+# from multiprocessing import Process
 
-API_TOKEN = '5083861996:AAHX5hWEU3EtvtOVDCYYdggwcT1OJig7wm4'
+API_TOKEN = '???'
 IMAGE_DIR = './images'
-BIN_DIR = './bin'
+BIN_DIR = './binaries'
 QUALITIES = [str(x) for x in [0, 20, 40, 60, 80, 100]]
 
 user_dict = dict()
