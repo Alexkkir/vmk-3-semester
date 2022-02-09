@@ -4,7 +4,7 @@ from telebot import types, custom_filters
 from compressor_api import perform_compression, perform_decompression
 import os
 
-API_TOKEN = '???'
+API_TOKEN = '??????'
 IMAGE_DIR = './images'
 BIN_DIR = './binaries'
 QUALITIES = [str(x) for x in [0, 20, 40, 60, 80, 100]]
