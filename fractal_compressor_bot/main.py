@@ -1,11 +1,8 @@
 #!/usr/bin/python
-
-
 import telebot
 from telebot import types, custom_filters
 from compressor_api import perform_compression, perform_decompression
 import os
-# from multiprocessing import Process
 
 API_TOKEN = '???'
 IMAGE_DIR = './images'
