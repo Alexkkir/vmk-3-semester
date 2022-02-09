@@ -1,5 +1,7 @@
 @archive
 .idea/
+__pycache_/
+.state-save
 cmake-build-debug/
 CMakeLists.txt
 *.jpg
